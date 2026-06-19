@@ -4,7 +4,7 @@ A full-featured **Social Media Platform** built using the **MERN Stack (MongoDB,
 
 ---
 
-## 🌟 Features
+## 🌟 Features  
 
 ### 🔐 Authentication
 
