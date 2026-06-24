@@ -237,7 +237,17 @@ http://localhost:5000
 
 ## 📸 Screenshots
 
-Add screenshots here:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b7c18f9-c8f1-4a29-a707-948e72738b81" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62d6cb7a-3727-4a9a-b7c7-22ea29460aa5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a217ff7-fac4-464e-957d-482fb1f59593" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c713402-2a6b-4196-8ada-e1bdf19cb8d6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b10c392-a7a1-4c26-96ff-0c24a7b4ccf8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6677ddbf-9be1-4686-856a-c684267a4bda" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acdd1748-35f9-452d-92b3-bbeb2a30040e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b05433e3-2224-4497-948a-d0b73a6b1097" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d1a5efa-992c-4138-98ef-11e0cc5a6d67" />
+
+
 
 ```bash
 public/
