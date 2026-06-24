@@ -19,7 +19,7 @@ exports.signup = async (req, res) => {
     });
     
     // Get IP geolocation data
-    const ip = req.ip === '::1' ? '8.8.8.8' : req.ip; // Use a fallback IP for localhost testing
+    const ip = req.ip === '::1' ? '8.8.8.8' : req.ip; 
     // const geoResponse = await axios.get(`http://ip-api.com/json/${ip}`);
     // const geoData = geoResponse.data;
     // user.location = {
